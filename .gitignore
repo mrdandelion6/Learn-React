@@ -1,0 +1,5 @@
+# Logs
+my-react-app/logs
+my-react-app/*.log
+my-react-app/node_modules
+.vscode
